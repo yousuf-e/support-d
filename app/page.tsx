@@ -84,7 +84,7 @@ export default function IndexPage() {
             <Input
               type="search"
               placeholder="Search..."
-              className={inputVariants({ variant: "search", size: "search" })}
+              className={inputVariants({ variant: "search" })}
             />
           </div>
           <div>
